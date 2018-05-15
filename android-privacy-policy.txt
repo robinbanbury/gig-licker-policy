@@ -1,0 +1,10 @@
+Privacy-related Android permissions requested by GigLicker
+
+READ PHONE STATE
+
+This allows read only access to phone state, including the phone number of the device, current cellular network information, the status of any ongoing calls, and a list of any phone accounts registered on the device.
+
+RECORD AUDIO
+
+Allows the application to record audio. This a function provided by a third-party library, but is not used by GigLicker.
+
