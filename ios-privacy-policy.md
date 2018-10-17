@@ -9,6 +9,7 @@ If you choose to use GigLicker, then you agree to the collection and use of info
 The app does use third party services that may collect information used to identify you.
 
 SoundCloud privacy policy: https://soundcloud.com/pages/privacy
+
 Songkick privacy policy: https://www.songkick.com/info/privacy
 
 **Log Data**
